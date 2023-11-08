@@ -1,0 +1,26 @@
+body{
+font-family: roboto, sans-serif;
+}
+
+
+
+button:focus, 
+a:focus{
+  outline: 2px solid #007bff;
+  
+}
+
+button:active, 
+a:active{
+  background-color: #0056b3;
+
+}
+
+button:hover, 
+a:hover:hover {
+  color: green;
+  background-color: #007bff;
+
+}
+
+
