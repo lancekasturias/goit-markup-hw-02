@@ -1,5 +1,5 @@
 body{
-font-family: sans-serif;
+font-family: Roboto;
 color:  #434455;
 background-color: #FFFFFF;
 }
@@ -12,11 +12,7 @@ a {
     text-decoration: none;
 }
 
-:root {
-    --primary-color: #007bff;
-    --secondary-color: #ff9900;
-    --font-family: Arial, sans-serif;
-    --base-font-size: 16px;}
+
 
 .logo{
     font-family: raleway;
