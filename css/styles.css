@@ -4,11 +4,27 @@ color:  #434455;
 background-color: #FFFFFF;
 }
 
+li {
+    list-style: none;
+}
 :root {
     --primary-color: #007bff;
     --secondary-color: #ff9900;
     --font-family: Arial, sans-serif;
     --base-font-size: 16px;}
+
+.logo{
+    font-family: raleway;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.spanlogo{
+    color: #2e2f42;
+}
 
 button:focus, 
 a:focus{
