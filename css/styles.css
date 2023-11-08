@@ -2,7 +2,11 @@ body{
 font-family: roboto, sans-serif;
 }
 
-
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #ff9900;
+    --font-family: Arial, sans-serif;
+    --base-font-size: 16px;}
 
 button:focus, 
 a:focus{
@@ -29,4 +33,22 @@ a:hover:hover {
 
 .section1{
     background-color: #2e2f42;
+}
+
+
+
+.ourteam{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.s4header{
+
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
