@@ -55,3 +55,14 @@ a:hover:hover {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
+.s4paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.s4list{
+    background-color: #FFFFFF;
+}
