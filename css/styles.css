@@ -1,5 +1,5 @@
 body{
-font-family: roboto, sans-serif;
+font-family: sans-serif;
 color:  #434455;
 background-color: #FFFFFF;
 }
@@ -7,6 +7,11 @@ background-color: #FFFFFF;
 li {
     list-style: none;
 }
+
+a {
+    text-decoration: none;
+}
+
 :root {
     --primary-color: #007bff;
     --secondary-color: #ff9900;
