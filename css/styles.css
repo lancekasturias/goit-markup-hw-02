@@ -24,6 +24,10 @@
   list-style: none;
 }
 
+.address {
+  font-style: normal;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -43,6 +47,7 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 h1 {
   font-size: 56px;
   line-height: 1.07;
