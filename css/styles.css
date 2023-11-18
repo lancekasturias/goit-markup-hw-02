@@ -76,16 +76,13 @@ h1 {
   --base-font-size: 16px;
 }
 
-.header {
-  font-family: 'Roboto', sans-serif;
-}
-
 .logo {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .spanlogo {
@@ -105,10 +102,6 @@ a:active {
 button:hover,
 a:hover:hover {
   color: #404bbf;
-}
-
-.logo {
-  color: #4d5ae5;
 }
 
 .section-1 {
