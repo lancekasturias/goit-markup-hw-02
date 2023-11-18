@@ -83,12 +83,10 @@ h1 {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  font-family: 'Roboto', sans-serif;
 }
 
 .spanlogo {
   color: #2e2f42;
-  font-family: 'Roboto', sans-serif;
 }
 
 button:focus,
