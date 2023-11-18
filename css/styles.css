@@ -66,6 +66,10 @@ h1 {
 .header {
   font-family: 'Roboto', sans-serif;
 }
+
+logo {
+  font-family: 'Roboto', sans-serif;
+}
 .logo {
   font-weight: 800;
   font-size: 18px;
