@@ -67,15 +67,13 @@ h1 {
   font-family: 'Roboto', sans-serif;
 }
 
-logo {
-  font-family: 'Roboto', sans-serif;
-}
 .logo {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
 }
 
 .spanlogo {
