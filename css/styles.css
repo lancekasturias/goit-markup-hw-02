@@ -34,10 +34,6 @@ body {
   background-color: #ffffff;
 }
 
-li {
-  list-style: none;
-}
-
 a {
   text-decoration: none;
 }
@@ -72,6 +68,14 @@ h1 {
   background-color: #404bbf;
 }
 
+:root {
+  --font-family: 'Arial', sans-serif;
+  --base-font-size: 16px;
+}
+
+.header {
+  font-family: 'Roboto', sans-serif;
+}
 .logo {
   font-weight: 800;
   font-size: 18px;
