@@ -1,89 +1,108 @@
-body{
-font-family: "Roboto", sans-serif;
-color:  #434455;
-background-color: #FFFFFF;
+.nav-list {
+  list-style: none;
+}
+
+.nav-list li:first-child a {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.nav-list li:first-child a:hover {
+  color: #404bbf;
+}
+
+.nav-list li:first-child a:focus {
+  color: #404bbf;
+}
+
+.default-link {
+  color: black;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 :root {
-    --font-family: Arial, sans-serif;
-    --base-font-size: 16px;}
-
-.logo{
-    font-family: "raleway";
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+  --font-family: Arial, sans-serif;
+  --base-font-size: 16px;
 }
 
-.spanlogo{
-    color: #2e2f42;
+.logo {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
 }
 
-button:focus, 
-a:focus{
+.spanlogo {
+  color: #2e2f42;
+}
+
+button:focus,
+a:focus {
   outline: 2px solid #404bbf;
-  
 }
 
-button:active, 
-a:active{
+button:active,
+a:active {
   background-color: #0056b3;
-
 }
 
-button:hover, 
+button:hover,
 a:hover:hover {
   color: #404bbf;
-  
-
 }
 
-.logo{
-    color: #4d5ae5;
+.logo {
+  color: #4d5ae5;
 }
 
-.section1{
-    background-color: #2e2f42;
+.section1 {
+  background-color: #2e2f42;
 }
 
-
-.section4{
-    background-color: #F4F4FD;
-
+.section4 {
+  background-color: #f4f4fd;
 }
-.ourteam{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+.ourteam {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.s4header{
-
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+.s4header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
-.s4paragraph{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+.s4paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.s4list{
-    background-color: #FFFFFF;
+.s4list {
+  background-color: #ffffff;
 }
