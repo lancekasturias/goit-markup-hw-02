@@ -58,7 +58,7 @@ h1 {
 }
 
 .button:hover .button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 :root {
@@ -100,6 +100,7 @@ a:hover:hover {
 
 .section1 {
   background-color: #2e2f42;
+  font-family: 'Roboto', sans-serif;
 }
 
 .section4 {
