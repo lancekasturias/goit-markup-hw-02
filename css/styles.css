@@ -4,6 +4,7 @@
 
 .default-link {
   text-decoration: none;
+  list-style: none;
 }
 
 .default-list {
