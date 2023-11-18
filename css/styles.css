@@ -91,6 +91,21 @@ h1 {
   color: #2e2f42;
 }
 
+.logofooter {
+  color: #f4f4fd;
+}
+
+.footer {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-family: 'Roboto', sans-serif;
+  background-color: #2e2f42;
+}
+
+.footerp {
+  color: #f4f4fd;
+}
+
 button:focus,
 a:focus {
   outline: 2px solid #404bbf;
