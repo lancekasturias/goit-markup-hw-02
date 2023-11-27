@@ -35,7 +35,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
   text-decoration: none;
 }
 
@@ -71,6 +71,12 @@ h1 {
 :root {
   --font-family: 'Arial', sans-serif;
   --base-font-size: 16px;
+  --slate: #434455;
+  --iris: #4d5ae5;
+  --white: #ffffff;
+  --navy-blue: #2e2f42;
+  --ocean: #404bbf;
+  --cloud: #f4f4fd;
 }
 
 .logo {
