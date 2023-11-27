@@ -44,14 +44,6 @@ body {
   color: #404bbf;
 }
 
-h1 {
-  font-size: 56px;
-  line-height: 1.07;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #ffffff;
-}
-
 .button {
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
@@ -69,14 +61,8 @@ h1 {
 }
 
 :root {
-  --font-family: 'Arial', sans-serif;
+  --font-family: 'Roboto', sans-serif;
   --base-font-size: 16px;
-  --slate: #434455;
-  --iris: #4d5ae5;
-  --white: #ffffff;
-  --navy-blue: #2e2f42;
-  --ocean: #404bbf;
-  --cloud: #f4f4fd;
 }
 
 .logo {
@@ -118,7 +104,7 @@ h1 {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  color: var(--white);
+  color: #ffffff;
 }
 
 .section4 {
@@ -170,4 +156,23 @@ h1 {
 
 .section-four {
   background-color: #f4f4fd;
+}
+
+/*Portfolio*/
+
+.btn-item {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+
+.btn-item:focus,
+.btn-item:hover {
+  color: #ffffff;
+  background-color: #404bbf;
 }
