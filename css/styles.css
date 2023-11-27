@@ -132,7 +132,7 @@ h1 {
   color: #2e2f42;
 }
 
-.s2header {
+.section2-header {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -145,7 +145,7 @@ h1 {
   letter-spacing: 0.02em;
 }
 
-.s3heder {
+.section3-header {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -153,6 +153,7 @@ h1 {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
 .s4header {
   font-weight: 500;
   font-size: 36px;
