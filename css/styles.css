@@ -1,10 +1,5 @@
-.nav-list {
-  list-style: none;
-}
-
 .default-link {
   text-decoration: none;
-  list-style: none;
 }
 
 .default-list {
@@ -15,7 +10,7 @@
   font-style: normal;
 }
 
-.first-list {
+.list-header {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -23,8 +18,7 @@
   color: #2e2f42;
 }
 
-.first-list li:first-child a:hover,
-.first-list li:first-child a:focus {
+.list-header {
   color: #404bbf;
 }
 
@@ -34,17 +28,15 @@ body {
   background-color: #ffffff;
 }
 
-a {
-  text-decoration: none;
-}
-
 .link {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 
-.link:focus {
+.link:focus,
+link:hover {
   color: #404bbf;
 }
 
@@ -104,21 +96,6 @@ h1 {
 
 .footerp {
   color: #f4f4fd;
-}
-
-button:focus,
-a:focus {
-  outline: 2px solid #404bbf;
-}
-
-button:active,
-a:active {
-  background-color: #0056b3;
-}
-
-button:hover,
-a:hover:hover {
-  color: #404bbf;
 }
 
 .section-1 {
